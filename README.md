@@ -2,7 +2,8 @@
 - ⚙ I am an engineer.
 - ❤ I love web development.
 - 📫 Find below links to contact me:
-- LinkedIn:https://www.linkedin.com/in/amanbh2/ 
+- LinkedIn: https://www.linkedin.com/in/amanbh2/
+- Telegram: https://t.me/amanbh2 
 
 <!---
 amanbh2/amanbh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
