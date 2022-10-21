@@ -1,24 +1,63 @@
 <h1 align="center">Hi 👋, I'm Aman Bhaskar</h1>
 <h3 align="center">Developer | Designer | Leader</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanbh2&label=Profile%20views&color=0e75b6&style=flat" alt="amanbh2" /> </p>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amanbh2&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amanbh2" />
+<img src="https://img.shields.io/github/followers/amanbh2.svg?style=for-the-badge&label=Follow&maxAge=2592000&color=gold" alt="amanbh2" />
+
+</p>
 
 - 👨‍💻 All of my projects are available at [https://amanbh2.github.io/Links/](https://amanbh2.github.io/Links/)
 
-- 📫 How to reach me **amanbh2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amanbh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanbh2" height="20" width="20" /></a>
-<a href="https://fb.com/amanbh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanbh2" height="20" width="20" /></a>
-<a href="https://instagram.com/iamanbh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamanbh2" height="20" width="20" /></a>
+<br/>
+<h2 align="center" style="font-weight:600">Social Links</h3>
+<br/>
+<p align="center">
+<a href="https://github.com/amanbh2"><img src="https://custom-icon-badges.demolab.com/badge/-Github-333?style=for-the-badge&logoColor=white&logo=github"/></a>
+<a href="https://www.linkedin.com/in/amanbh2/"><img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amanbh2@gmail.com."><img src="https://custom-icon-badges.demolab.com/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/amanbh2"><img src="https://custom-icon-badges.demolab.com/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20" height="20"/> </a> </p>
+<br/>
+<h2 align="center" style="font-weight:600">Programming Languages</h3>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=parrotgreen"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanbh2&show_icons=true&locale=en&layout=compact" alt="amanbh2" /></p>
 
+</p>
+
+<br/>
+<h2 align="center" style="font-weight:600">Markup Languages</h3>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=gold"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+
+<br/>
+<h2 align="center" style="font-weight:600">Programming Tools</h3>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+</p>
+
+<br/>
+<h2 align="center" style="font-weight:600">Design Tools</h3>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 <!---
 amanbh2/amanbh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
