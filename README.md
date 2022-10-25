@@ -4,10 +4,10 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amanbh2&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amanbh2" />
 <img src="https://img.shields.io/github/followers/amanbh2.svg?style=for-the-badge&label=Follow&maxAge=2592000&color=gold" alt="amanbh2" />
+<a href="https://amanbh2.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://amanbh2.github.io/Links/](https://amanbh2.github.io/Links/)
 
 <br/>
 <h2 align="center" style="font-weight:600">Social Links</h3>
