@@ -16,7 +16,7 @@
 
 ### 📡 Engineering Overview
 
-5G RAN Software Engineer with **4+ years of industry experience** at **Capgemini** (joined Aug 4, 2022) specializing in **Centralized Unit (CU) Layer 3** protocol stack development for **5G NR** and **NB-IoT**.
+5G RAN Software Engineer with **4+ years of industry experience** at **Capgemini** specializing in **Centralized Unit (CU) Layer 3** protocol stack development for **5G NR** and **NB-IoT**.
 
 - 🛡️ **gNodeB High Availability (HA):** Architectural design supporting multiple CU-CP instances running within a single gNB-CU node to provide state synchronization, hot-standby failover, and carrier-grade resiliency.
 - 🔀 **Modular Stack Decoupling:** Separated transport from application logic by carving out NGAP and F1AP from RRC into dedicated **N2SCTP** and **F1SCTP** aggregator modules.
